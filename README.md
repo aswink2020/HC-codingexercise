@@ -26,7 +26,7 @@ Python 3.11
 
    ```bash
    git clone https://github.com/aswink2020/HC-codingexercise.git
-   cd todo-list-manager
+   cd HC-codingexercise
 2. Run the To-Do List Manager:
       python main.py
 
