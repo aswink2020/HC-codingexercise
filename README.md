@@ -20,6 +20,16 @@ Created a simple To-Do List Manager where users can add tasks, mark them as comp
 
 Python 3.11
 
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone 
+   cd todo-list-manager
+   python main.py
+
+
 ## Contributor
 
 ASWIN K (AM.EN.U4CSE20114)
