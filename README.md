@@ -6,10 +6,10 @@ Created a simple To-Do List Manager where users can add tasks, mark them as comp
 
 ## Features
 
-Add tasks with optional due dates and tags.
-Mark tasks as completed.
-View tasks, either all at once or filtered by completion status.
-Undo/redo actions using the Memento pattern.
+1. Add tasks with optional due dates and tags.
+2. Mark tasks as completed.
+3. View tasks, either all at once or filtered by completion status.
+4. Undo/redo actions using the Memento pattern.
 
 ## Usage
 
